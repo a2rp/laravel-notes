@@ -29,8 +29,8 @@ Read the chapters in order and try each example in a small Laravel application. 
 
 ## Reference chapters
 
-17. [All code samples](./chapters/98-all-code-samples.md) - examples grouped by their source chapter.
-18. [Complete questions and answers](./chapters/99-complete-q-and-a.md) - eight review questions and clear answers for every core chapter.
+17. [Code samples quick reference](./chapters/98-all-code-samples.md) - selected practical patterns linked to their full chapters.
+18. [Complete questions and answers](./chapters/99-complete-q-and-a.md) - answers to all eight review questions in each core chapter.
 
 ## About
 
